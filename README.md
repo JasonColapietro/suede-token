@@ -92,9 +92,16 @@ Source links:
 
 Public x402 and ACP-ready endpoint documentation is maintained separately:
 
-```text
-SUEDE_X402_ACP_PUBLIC_README.md
-```
+[suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp)
+
+## Public Suede Repositories
+
+| Repository | Purpose |
+|---|---|
+| [suede-token](https://github.com/jasoncola1/suede-token) | Token, contracts, supply, and ecosystem reference |
+| [suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | x402 payment and ACP-ready endpoint reference |
+| [suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Logos, colors, listing copy, and brand assets |
+| [suede-docs](https://github.com/jasoncola1/suede-docs) | Programmable IP, creator ownership, provenance, licensing, and agent commerce docs |
 
 ## Verification
 
