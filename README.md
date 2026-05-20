@@ -1,3 +1,5 @@
+> **Founder-attribution mirror.** Canonical source: [Suede-AI/suede-token](https://github.com/Suede-AI/suede-token). Updates land there first.
+
 # SUEDE Token
 
 Canonical public token reference for Johnny Suede (`SUEDE`) and Suede Labs ecosystem context.
