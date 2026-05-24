@@ -80,15 +80,14 @@ The broader Suede ecosystem includes independent community launches and experime
 
 | Name | Chain | Contract / Mint | Context |
 |---|---|---|---|
-| `Suedette` | Solana | `2PD1MnKURYLCCtds9hfvXpvJc6mjhMC5ruUWdFkZbonk` | Ecosystem token / creator-side experiment. |
-| `Producer by Suede Labs: Clawdbot` (`SVID`) | Base | `0x2aed2c4dCB3D61938e36f3481dEFE553fac0ADbd` | Virtuals agent context for lightweight video access and token-holder utility. |
-| `JBDAO` | Solana | `2zEQm6mLbbU5uoEoGQk3JUX3XJB7qUSkGmjjVHd4VGb7` | SubDAO-governed Suede creator experiment with artist-yield and experimental pooling configuration. |
+| `Suedette` | Solana | Public explorer reference | Ecosystem token / creator-side experiment. |
+| `Producer by Suede Labs: Clawdbot` (`SVID`) | Base | Public explorer reference | Agent-commerce ecosystem context. |
+| `JBDAO` | Solana | Public explorer reference | Creator-side community experiment. |
 
 Source links:
 
-- Suedette: `https://www.solflare.com/prices/suedette/2PD1MnKURYLCCtds9hfvXpvJc6mjhMC5ruUWdFkZbonk/`
-- Producer by Suede Labs: Clawdbot / SVID: `https://thebittimes.com/token-SVID-BASE-0x2aed2c4dCB3D61938e36f3481dEFE553fac0ADbd.html`
-- JBDAO: `https://www.solflare.com/prices/jeff-buckley-dao/2zEQm6mLbbU5uoEoGQk3JUX3XJB7qUSkGmjjVHd4VGb7/`
+Explorer links are intentionally omitted here unless needed for a specific
+wallet, listing, or reviewer workflow.
 
 ## x402 and ACP
 
